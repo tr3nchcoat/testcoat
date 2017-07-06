@@ -1,4 +1,5 @@
 # testcoat
 testcoat desc
-# master branch
-renamed
+
+# master branch merged
+
